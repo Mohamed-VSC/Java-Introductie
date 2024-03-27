@@ -1,4 +1,4 @@
-int a = 150;
+float a = 150;
 float b = 2;
 float c = 0;
 
