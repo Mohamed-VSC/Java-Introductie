@@ -12,5 +12,4 @@ Win Condition:
 Bounce the volleyball successfully 10 times to win the game.
 Lose Condition:
 If you miss bouncing the volleyball 5 times, you will lose the game.
-Settings
 Enjoy the game!
