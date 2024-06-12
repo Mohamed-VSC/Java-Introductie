@@ -1,4 +1,4 @@
-# Java Introductie
+# VollyGame
 
 VolleyGame Usage Instructions:
 
